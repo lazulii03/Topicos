@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ulatina.Topicos.Calentamiento", "Ulatina.Topicos.Calentamiento\Ulatina.Topicos.Calentamiento.csproj", "{3B5131C8-AA59-4B24-849D-64ACED753B13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ulatina.Topicos.Calculadora.BL", "Ulatina.Topicos.Calculadora\Ulatina.Topicos.Calculadora.BL.csproj", "{5FA8871A-F699-4D8A-AF7C-A9FFBBF8655D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3B5131C8-AA59-4B24-849D-64ACED753B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B5131C8-AA59-4B24-849D-64ACED753B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B5131C8-AA59-4B24-849D-64ACED753B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA8871A-F699-4D8A-AF7C-A9FFBBF8655D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA8871A-F699-4D8A-AF7C-A9FFBBF8655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA8871A-F699-4D8A-AF7C-A9FFBBF8655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA8871A-F699-4D8A-AF7C-A9FFBBF8655D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
